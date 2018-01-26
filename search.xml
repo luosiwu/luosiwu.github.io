@@ -1,18 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title><![CDATA[我的第一篇文章]]></title>
-    <url>%2F2018%2F01%2F26%2F%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0%2F</url>
-    <content type="text"><![CDATA[#一级标题 二级标题三级标题斜体文本 斜体文本位粗体文本 粗体文本粗斜体文本 粗斜体文本 常用链接方法文字链接 我的git网址链接 https://chwshuang.github.io高级链接技巧这个链接用 1 作为网址变量 Google.这个链接用 yahoo 作为网址变量 Yahoo!.然后在文档的结尾为变量赋值（网址） 换行如果另起一行，只需在当前行结尾加 2 个空格]]></content>
-  </entry>
-  <entry>
-    <title><![CDATA[test_my_website]]></title>
-    <url>%2F2018%2F01%2F24%2Ftest-my-website%2F</url>
-    <content type="text"><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>%2F2018%2F01%2F24%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
-  </entry>
+<search> 
+  
+    
+    <entry>
+      <title><![CDATA[我的第一篇文章]]></title>
+      <url>/2018/01/26/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>#一级标题</p>
+<h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><p><img src="/img/7.jpg" alt="图片名称"><br><a id="more"></a><br><em>斜体文本</em>     <em>斜体文本</em>位<br><strong>粗体文本</strong>    <strong>粗体文本</strong><br><strong><em>粗斜体文本</em></strong>    <strong><em>粗斜体文本</em></strong></p>
+<p>常用链接方法<br>文字链接 <a href="https://luosiwu.github.io" target="_blank" rel="noopener">我的git</a><br>网址链接 <a href="https://chwshuang.github.io" target="_blank" rel="noopener">https://chwshuang.github.io</a><br>高级链接技巧<br>这个链接用 1 作为网址变量 <a href="http://www.google.com/" target="_blank" rel="noopener">Google</a>.<br>这个链接用 yahoo 作为网址变量 <a href="http://www.yahoo.com/" target="_blank" rel="noopener">Yahoo!</a>.<br>然后在文档的结尾为变量赋值（网址）</p>
+<p>换行<br>如果另起一行，只需在当前行结尾加 2 个空格  </p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[test_my_website]]></title>
+      <url>/2018/01/24/test-my-website/</url>
+      <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script>]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Hello World]]></title>
+      <url>/2018/01/24/hello-world/</url>
+      <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+]]></content>
+      
+        
+    </entry>
+    
+  
+  
 </search>
