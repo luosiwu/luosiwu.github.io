@@ -7,6 +7,13 @@
     </url>
     
     <url>
+        <loc>http://yoursite.com/categories/%E7%94%9F%E6%B4%BB%E8%AE%B0%E5%BD%95%EF%BC%88%E4%B8%80%EF%BC%89.html</loc>
+        <lastmod>2018-01-27T10:39:57.626Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
         <loc>http://yoursite.com/tags/</loc>
         <lastmod>2018-01-26T14:36:30.294Z</lastmod>
         <changefreq>weekly</changefreq>
