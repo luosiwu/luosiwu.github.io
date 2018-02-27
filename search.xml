@@ -1,27 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title><![CDATA[第二篇测试文章]]></title>
-    <url>%2F2018%2F01%2F26%2F%E6%88%91%E7%9A%84%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0%20%2F</url>
-    <content type="text"><![CDATA[#一级标题233 二级标题666三级标题斜体文本 斜体文本位粗体文本 粗体文本粗斜体文本 粗斜体文本 常用链接方法文字链接 我的git网址链接 https://chwshuang.github.io高级链接技巧这个链接用 1 作为网址变量 Google.这个链接用 yahoo 作为网址变量 Yahoo!.然后在文档的结尾为变量赋值（网址） 换行如果另起一行，只需在当前行结尾加 2 个空格]]></content>
-      <categories>
-        <category>categories1</category>
-      </categories>
-      <tags>
-        <tag>Testing</tag>
-        <tag>Another Tag</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[第一篇测试文章]]></title>
-    <url>%2F2018%2F01%2F26%2F%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0%2F</url>
-    <content type="text"><![CDATA[#一级标题233 二级标题666三级标题斜体文本 斜体文本位粗体文本 粗体文本粗斜体文本 粗斜体文本 常用链接方法文字链接 我的git网址链接 https://chwshuang.github.io高级链接技巧这个链接用 1 作为网址变量 Google.这个链接用 yahoo 作为网址变量 Yahoo!.然后在文档的结尾为变量赋值（网址） 换行如果另起一行，只需在当前行结尾加 2 个空格]]></content>
-      <categories>
-        <category>categories1</category>
-      </categories>
-      <tags>
-        <tag>Testing</tag>
-        <tag>Another Tag</tag>
-      </tags>
-  </entry>
+<search> 
+  
+    
+    <entry>
+      <title><![CDATA[第三篇测试文章]]></title>
+      <url>/2018/02/27/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%89%E7%AF%87%E6%96%87%E7%AB%A0%20/</url>
+      <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>#一级标题233</p>
+<h2 id="二级标题666"><a href="#二级标题666" class="headerlink" title="二级标题666"></a>二级标题666</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><p><img src="/img/7.jpg" alt="图片名称"><br><a id="more"></a><br><em>斜体文本</em>     <em>斜体文本</em>位<br><strong>粗体文本</strong>    <strong>粗体文本</strong><br><strong><em>粗斜体文本</em></strong>    <strong><em>粗斜体文本</em></strong></p>
+<p>常用链接方法<br>文字链接 <a href="https://luosiwu.github.io" target="_blank" rel="noopener">我的git</a><br>网址链接 <a href="https://chwshuang.github.io" target="_blank" rel="noopener">https://chwshuang.github.io</a><br>高级链接技巧<br>这个链接用 1 作为网址变量 <a href="http://www.google.com/" target="_blank" rel="noopener">Google</a>.<br>这个链接用 yahoo 作为网址变量 <a href="http://www.yahoo.com/" target="_blank" rel="noopener">Yahoo!</a>.<br>然后在文档的结尾为变量赋值（网址）</p>
+<p>换行<br>如果另起一行，只需在当前行结尾加 2 个空格  </p>
+]]></content>
+      
+        <categories>
+            
+            <category> categories3 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> Testing </tag>
+            
+            <tag> Another Tag </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[第一篇测试文章]]></title>
+      <url>/2018/01/26/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>#一级标题233</p>
+<h2 id="二级标题666"><a href="#二级标题666" class="headerlink" title="二级标题666"></a>二级标题666</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><p><img src="/img/7.jpg" alt="图片名称"><br><a id="more"></a><br><em>斜体文本</em>     <em>斜体文本</em>位<br><strong>粗体文本</strong>    <strong>粗体文本</strong><br><strong><em>粗斜体文本</em></strong>    <strong><em>粗斜体文本</em></strong></p>
+<p>常用链接方法<br>文字链接 <a href="https://luosiwu.github.io" target="_blank" rel="noopener">我的git</a><br>网址链接 <a href="https://chwshuang.github.io" target="_blank" rel="noopener">https://chwshuang.github.io</a><br>高级链接技巧<br>这个链接用 1 作为网址变量 <a href="http://www.google.com/" target="_blank" rel="noopener">Google</a>.<br>这个链接用 yahoo 作为网址变量 <a href="http://www.yahoo.com/" target="_blank" rel="noopener">Yahoo!</a>.<br>然后在文档的结尾为变量赋值（网址）</p>
+<p>换行<br>如果另起一行，只需在当前行结尾加 2 个空格  </p>
+]]></content>
+      
+        <categories>
+            
+            <category> categories1 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> Testing </tag>
+            
+            <tag> Another Tag </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[第二篇测试文章]]></title>
+      <url>/2018/01/26/%E6%88%91%E7%9A%84%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0%20/</url>
+      <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>#一级标题233</p>
+<h2 id="二级标题666"><a href="#二级标题666" class="headerlink" title="二级标题666"></a>二级标题666</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><p><img src="/img/7.jpg" alt="图片名称"><br><a id="more"></a><br><em>斜体文本</em>     <em>斜体文本</em>位<br><strong>粗体文本</strong>    <strong>粗体文本</strong><br><strong><em>粗斜体文本</em></strong>    <strong><em>粗斜体文本</em></strong></p>
+<p>常用链接方法<br>文字链接 <a href="https://luosiwu.github.io" target="_blank" rel="noopener">我的git</a><br>网址链接 <a href="https://chwshuang.github.io" target="_blank" rel="noopener">https://chwshuang.github.io</a><br>高级链接技巧<br>这个链接用 1 作为网址变量 <a href="http://www.google.com/" target="_blank" rel="noopener">Google</a>.<br>这个链接用 yahoo 作为网址变量 <a href="http://www.yahoo.com/" target="_blank" rel="noopener">Yahoo!</a>.<br>然后在文档的结尾为变量赋值（网址）</p>
+<p>换行<br>如果另起一行，只需在当前行结尾加 2 个空格  </p>
+]]></content>
+      
+        <categories>
+            
+            <category> categories1 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> Testing </tag>
+            
+            <tag> Another Tag </tag>
+            
+        </tags>
+        
+    </entry>
+    
+  
+  
 </search>
