@@ -3,14 +3,14 @@
 
     <url>
         <loc>http://yoursite.com/tags/Testing/</loc>
-        <lastmod>2018-02-27T13:31:35.542Z</lastmod>
+        <lastmod>2018-03-22T07:51:06.589Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://yoursite.com/tags/Another-Tag/</loc>
-        <lastmod>2018-02-27T13:31:35.542Z</lastmod>
+        <lastmod>2018-03-22T07:51:06.589Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

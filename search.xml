@@ -1,85 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-    
-    <entry>
-      <title><![CDATA[第三篇测试文章]]></title>
-      <url>/2018/02/27/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%89%E7%AF%87%E6%96%87%E7%AB%A0%20/</url>
-      <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>#一级标题233</p>
-<h2 id="二级标题666"><a href="#二级标题666" class="headerlink" title="二级标题666"></a>二级标题666</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><p><img src="/img/7.jpg" alt="图片名称"><br><a id="more"></a><br><em>斜体文本</em>     <em>斜体文本</em>位<br><strong>粗体文本</strong>    <strong>粗体文本</strong><br><strong><em>粗斜体文本</em></strong>    <strong><em>粗斜体文本</em></strong></p>
-<p>常用链接方法<br>文字链接 <a href="https://luosiwu.github.io" target="_blank" rel="noopener">我的git</a><br>网址链接 <a href="https://chwshuang.github.io" target="_blank" rel="noopener">https://chwshuang.github.io</a><br>高级链接技巧<br>这个链接用 1 作为网址变量 <a href="http://www.google.com/" target="_blank" rel="noopener">Google</a>.<br>这个链接用 yahoo 作为网址变量 <a href="http://www.yahoo.com/" target="_blank" rel="noopener">Yahoo!</a>.<br>然后在文档的结尾为变量赋值（网址）</p>
-<p>换行<br>如果另起一行，只需在当前行结尾加 2 个空格  </p>
-]]></content>
-      
-        <categories>
-            
-            <category> categories3 </category>
-            
-        </categories>
-        
-        
-        <tags>
-            
-            <tag> Testing </tag>
-            
-            <tag> Another Tag </tag>
-            
-        </tags>
-        
-    </entry>
-    
-    <entry>
-      <title><![CDATA[第一篇测试文章]]></title>
-      <url>/2018/01/26/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
-      <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>#一级标题233</p>
-<h2 id="二级标题666"><a href="#二级标题666" class="headerlink" title="二级标题666"></a>二级标题666</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><p><img src="/img/7.jpg" alt="图片名称"><br><a id="more"></a><br><em>斜体文本</em>     <em>斜体文本</em>位<br><strong>粗体文本</strong>    <strong>粗体文本</strong><br><strong><em>粗斜体文本</em></strong>    <strong><em>粗斜体文本</em></strong></p>
-<p>常用链接方法<br>文字链接 <a href="https://luosiwu.github.io" target="_blank" rel="noopener">我的git</a><br>网址链接 <a href="https://chwshuang.github.io" target="_blank" rel="noopener">https://chwshuang.github.io</a><br>高级链接技巧<br>这个链接用 1 作为网址变量 <a href="http://www.google.com/" target="_blank" rel="noopener">Google</a>.<br>这个链接用 yahoo 作为网址变量 <a href="http://www.yahoo.com/" target="_blank" rel="noopener">Yahoo!</a>.<br>然后在文档的结尾为变量赋值（网址）</p>
-<p>换行<br>如果另起一行，只需在当前行结尾加 2 个空格  </p>
-]]></content>
-      
-        <categories>
-            
-            <category> categories1 </category>
-            
-        </categories>
-        
-        
-        <tags>
-            
-            <tag> Testing </tag>
-            
-            <tag> Another Tag </tag>
-            
-        </tags>
-        
-    </entry>
-    
-    <entry>
-      <title><![CDATA[第二篇测试文章]]></title>
-      <url>/2018/01/26/%E6%88%91%E7%9A%84%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0%20/</url>
-      <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>#一级标题233</p>
-<h2 id="二级标题666"><a href="#二级标题666" class="headerlink" title="二级标题666"></a>二级标题666</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><p><img src="/img/7.jpg" alt="图片名称"><br><a id="more"></a><br><em>斜体文本</em>     <em>斜体文本</em>位<br><strong>粗体文本</strong>    <strong>粗体文本</strong><br><strong><em>粗斜体文本</em></strong>    <strong><em>粗斜体文本</em></strong></p>
-<p>常用链接方法<br>文字链接 <a href="https://luosiwu.github.io" target="_blank" rel="noopener">我的git</a><br>网址链接 <a href="https://chwshuang.github.io" target="_blank" rel="noopener">https://chwshuang.github.io</a><br>高级链接技巧<br>这个链接用 1 作为网址变量 <a href="http://www.google.com/" target="_blank" rel="noopener">Google</a>.<br>这个链接用 yahoo 作为网址变量 <a href="http://www.yahoo.com/" target="_blank" rel="noopener">Yahoo!</a>.<br>然后在文档的结尾为变量赋值（网址）</p>
-<p>换行<br>如果另起一行，只需在当前行结尾加 2 个空格  </p>
-]]></content>
-      
-        <categories>
-            
-            <category> categories1 </category>
-            
-        </categories>
-        
-        
-        <tags>
-            
-            <tag> Testing </tag>
-            
-            <tag> Another Tag </tag>
-            
-        </tags>
-        
-    </entry>
-    
-  
-  
+<search>
+  <entry>
+    <title><![CDATA[CRC校验原理及步骤（转载）]]></title>
+    <url>%2F2018%2F03%2F22%2FCRC%E6%A3%80%E9%AA%8C%E5%8E%9F%E7%90%86%2F</url>
+    <content type="text"><![CDATA[什么是CRC校验？CRC即循环冗余校验码：是数据通信领域中最常用的一种查错校验码，其特征是信息字段和校验字段的长度可以任意选定。循环冗余检查（CRC）是一种数据传输检错功能，对数据进行多项式计算，并将得到的结果附在帧的后面，接收设备也执行类似的算法，以保证数据传输的正确性和完整性。 CRC校验原理：其根本思想就是先在要发送的帧后面附加一个数（这个就是用来校验的校验码，但要注意，这里的数也是二进制序列的，下同），生成一个新帧发送给接收端。当然，这个附加的数不是随意的，它要使所生成的新帧能与发送端和接收端共同选定的某个特定数整除（注意，这里不是直接采用二进制除法，而是采用一种称之为“模2除法”）。到达接收端后，再把接收到的新帧除以（同样采用“模2除法”）这个选定的除数。因为在发送端发送数据帧之前就已通过附加一个数，做了“去余”处理（也就已经能整除了），所以结果应该是没有余数。如果有余数，则表明该帧在传输过程中出现了差错。模2除法：模2除法与算术除法类似，但每一位除的结果不影响其它位，即不向上一位借位，所以实际上就是异或。在循环冗余校验码（CRC）的计算中有应用到模2除法。例： CRC校验步骤：CRC校验中有两个关键点，一是预先确定一个发送送端和接收端都用来作为除数的二进制比特串（或多项式），可以随机选择，也可以使用国际标准，但是最高位和最低位必须为1；二是把原始帧与上面计算出的除数进行模2除法运算，计算出CRC码。 具体步骤： 选择合适的除数 看选定除数的二进制位数，然后再要发送的数据帧上面加上这个位数-1位的0，然后用新生成的帧以模2除法的方式除上面的除数，得到的余数就是该帧的CRC校验码。注意，余数的位数一定只比除数位数少一位，也就是CRC校验码位数比除数位数少一位，如果前面位是0也不能省略。 将计算出来的CRC校验码附加在原数据帧后面，构建成一个新的数据帧进行发送；最后接收端在以模2除法方式除以前面选择的除数，如果没有余数，则说明数据帧在传输的过程中没有出错。 CRC校验码计算示例：现假设选择的CRC生成多项式为G（X） = X4 + X3 + 1，要求出二进制序列10110011的CRC校验码。下面是具体的计算过程：①将多项式转化为二进制序列，由G（X） = X4 + X3 + 1可知二进制一种有五位，第4位、第三位和第零位分别为1，则序列为11001②多项式的位数位5，则在数据帧的后面加上5-1位0，数据帧变为101100110000，然后使用模2除法除以除数11001，得到余数。 ③将计算出来的CRC校验码添加在原始帧的后面，真正的数据帧为101100110100，再把这个数据帧发送到接收端。④接收端收到数据帧后，用上面选定的除数，用模2除法除去，验证余数是否为0，如果为0，则说明数据帧没有出错。转自：http://blog.csdn.net/D_leo/article/details/73572373]]></content>
+      <categories>
+        <category>categories1</category>
+      </categories>
+      <tags>
+        <tag>Testing</tag>
+        <tag>Another Tag</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[第三篇测试文章]]></title>
+    <url>%2F2018%2F02%2F27%2F%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%89%E7%AF%87%E6%96%87%E7%AB%A0%20%2F</url>
+    <content type="text"><![CDATA[#一级标题233 二级标题666三级标题斜体文本 斜体文本位粗体文本 粗体文本粗斜体文本 粗斜体文本 常用链接方法文字链接 我的git网址链接 https://chwshuang.github.io高级链接技巧这个链接用 1 作为网址变量 Google.这个链接用 yahoo 作为网址变量 Yahoo!.然后在文档的结尾为变量赋值（网址） 换行如果另起一行，只需在当前行结尾加 2 个空格]]></content>
+      <categories>
+        <category>categories3</category>
+      </categories>
+      <tags>
+        <tag>Testing</tag>
+        <tag>Another Tag</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[第一篇测试文章]]></title>
+    <url>%2F2018%2F01%2F26%2F%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0%2F</url>
+    <content type="text"><![CDATA[#一级标题233 二级标题666三级标题斜体文本 斜体文本位粗体文本 粗体文本粗斜体文本 粗斜体文本 常用链接方法文字链接 我的git网址链接 https://chwshuang.github.io高级链接技巧这个链接用 1 作为网址变量 Google.这个链接用 yahoo 作为网址变量 Yahoo!.然后在文档的结尾为变量赋值（网址） 换行如果另起一行，只需在当前行结尾加 2 个空格]]></content>
+      <categories>
+        <category>categories1</category>
+      </categories>
+      <tags>
+        <tag>Testing</tag>
+        <tag>Another Tag</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[第二篇测试文章]]></title>
+    <url>%2F2018%2F01%2F26%2F%E6%88%91%E7%9A%84%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0%20%2F</url>
+    <content type="text"><![CDATA[#一级标题233 二级标题666三级标题斜体文本 斜体文本位粗体文本 粗体文本粗斜体文本 粗斜体文本 常用链接方法文字链接 我的git网址链接 https://chwshuang.github.io高级链接技巧这个链接用 1 作为网址变量 Google.这个链接用 yahoo 作为网址变量 Yahoo!.然后在文档的结尾为变量赋值（网址） 换行如果另起一行，只需在当前行结尾加 2 个空格]]></content>
+      <categories>
+        <category>categories1</category>
+      </categories>
+      <tags>
+        <tag>Testing</tag>
+        <tag>Another Tag</tag>
+      </tags>
+  </entry>
 </search>
