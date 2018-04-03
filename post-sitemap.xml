@@ -7,16 +7,8 @@
     </url>
 
     <url>
-        <loc>http://yoursite.com/2018/04/03/2018%E7%83%AD%E8%BA%AB%E8%B5%9B_%E7%BD%9745/</loc>
-        <lastmod>2018-04-03T16:32:00.773Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>http://yoursite.com/2018/03/22/CRC%E6%A3%80%E9%AA%8C%E5%8E%9F%E7%90%86/</loc>
-        <lastmod>2018-04-03T16:26:20.503Z</lastmod>
+        <lastmod>2018-04-03T16:50:42.876Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -24,7 +16,15 @@
 
     <url>
         <loc>http://yoursite.com/2018/03/22/RM%E4%BA%91%E5%8F%B0%E7%B3%BB%E7%BB%9F%E8%BE%A8%E8%AF%86%E6%95%99%E7%A8%8B/</loc>
-        <lastmod>2018-04-03T16:25:24.894Z</lastmod>
+        <lastmod>2018-04-03T16:50:41.918Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://yoursite.com/2018/04/03/2018%E7%83%AD%E8%BA%AB%E8%B5%9B_%E7%BD%9745/</loc>
+        <lastmod>2018-04-03T16:32:00.773Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
