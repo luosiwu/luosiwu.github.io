@@ -7,13 +7,6 @@
     </url>
 
     <url>
-        <loc>http://yoursite.com/categories/%E6%B5%8B%E8%AF%95/</loc>
-        <lastmod>2018-04-03T16:01:00.476Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://yoursite.com/categories/%E4%B8%AA%E4%BA%BAsecret/</loc>
         <lastmod>2018-04-03T16:32:00.773Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -37,6 +30,20 @@
     <url>
         <loc>http://yoursite.com/categories/%E6%B1%BD%E8%BD%A6%E4%B9%8B%E5%AE%B6/</loc>
         <lastmod>2018-04-04T16:48:50.879Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://yoursite.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%AF%AD%E8%A8%80/</loc>
+        <lastmod>2018-04-07T09:09:48.965Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://yoursite.com/categories/%E6%B5%8B%E8%AF%95/</loc>
+        <lastmod>2018-04-07T09:09:48.967Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

@@ -393,7 +393,7 @@ const loadScript = function loadScript(c,b){var a=document.createElement("script
 
       <h2 class="post-title">
         
-            <a class="post-title-link" href="/2018/01/26/我的第二篇文章  - 副本/" itemprop="url">
+            <a class="post-title-link" href="/2018/01/26/劳斯莱斯/" itemprop="url">
               
                 <span itemprop="name">世界名车之劳斯莱斯</span>
               
@@ -469,7 +469,7 @@ const loadScript = function loadScript(c,b){var a=document.createElement("script
               
                 <a href="/archives/">
               
-                  <span class="site-state-item-count">5</span>
+                  <span class="site-state-item-count">6</span>
                   <span class="site-state-item-name">日志</span>
                 </a>
               </div>
@@ -480,7 +480,7 @@ const loadScript = function loadScript(c,b){var a=document.createElement("script
               
               <div class="site-state-item site-state-categories">
                 <a href="/categories/index.html">
-                  <span class="site-state-item-count">5</span>
+                  <span class="site-state-item-count">6</span>
                   <span class="site-state-item-name">分类</span>
                 </a>
               </div>
@@ -601,7 +601,7 @@ const loadScript = function loadScript(c,b){var a=document.createElement("script
 
 <div class="theme-info">
   <div class="powered-by"></div>
-  <span class="post-count">| 博客全站共5.7k字</span>
+  <span class="post-count">| 博客全站共5.8k字</span>
 </div>
 
         
@@ -1097,7 +1097,21 @@ const loadScript = function loadScript(c,b){var a=document.createElement("script
 </html>
 <!-- 页面点击小红心 -->
 <script type="text/javascript" src="/js/src/love.js"></script>
-     }
+== resultRight.searchTextCount) {
+                  return resultRight.searchTextCount - resultLeft.searchTextCount;
+                } else if (resultLeft.hitCount !== resultRight.hitCount) {
+                  return resultRight.hitCount - resultLeft.hitCount;
+                } else {
+                  return resultRight.id - resultLeft.id;
+                }
+              });
+              var searchResultList = '<ul class=\"search-result-list\">';
+              resultItems.forEach(function (result) {
+                searchResultList += result.item;
+              })
+              searchResultList += "</ul>";
+              resultContent.innerHTML = searchResultList;
+            }
           }
 
           if ('auto' === '') {
