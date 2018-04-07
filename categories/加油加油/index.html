@@ -135,7 +135,7 @@
 <meta name="description" content="一切的一切，都是当事者能力不足造成的">
 <meta property="og:type" content="website">
 <meta property="og:title" content="LUO の 博客">
-<meta property="og:url" content="http://yoursite.com/tags/testing/index.html">
+<meta property="og:url" content="http://yoursite.com/categories/加油加油/index.html">
 <meta property="og:site_name" content="LUO の 博客">
 <meta property="og:description" content="一切的一切，都是当事者能力不足造成的">
 <meta property="og:locale" content="zh-Hans">
@@ -182,13 +182,13 @@
     
 
 
-  <link rel="canonical" href="http://yoursite.com/tags/testing/"/>
+  <link rel="canonical" href="http://yoursite.com/categories/加油加油/"/>
 
 
 
 
 
-  <title>标签: testing | LUO の 博客</title>
+  <title>分类: 加油加油 | LUO の 博客</title>
   
 
 
@@ -377,11 +377,11 @@ const loadScript = function loadScript(c,b){var a=document.createElement("script
   
   
   
-  <div class="post-block tag">
+  <div class="post-block category">
 
     <div id="posts" class="posts-collapse">
       <div class="collection-title">
-        <h1>testing<small>标签</small>
+        <h1>加油加油<small>分类</small>
         </h1>
       </div>
 
@@ -393,9 +393,9 @@ const loadScript = function loadScript(c,b){var a=document.createElement("script
 
       <h2 class="post-title">
         
-            <a class="post-title-link" href="/2018/01/26/劳斯莱斯/" itemprop="url">
+            <a class="post-title-link" href="/2018/04/06/努力成为厉害的人/" itemprop="url">
               
-                <span itemprop="name">世界名车之劳斯莱斯</span>
+                <span itemprop="name">要怎样努力，才能成为很厉害的人？</span>
               
             </a>
         
@@ -403,9 +403,9 @@ const loadScript = function loadScript(c,b){var a=document.createElement("script
 
       <div class="post-meta">
         <time class="post-time" itemprop="dateCreated"
-              datetime="2018-01-26T13:46:25+08:00"
-              content="2018-01-26" >
-          01-26
+              datetime="2018-04-06T13:46:25+08:00"
+              content="2018-04-06" >
+          04-06
         </time>
       </div>
 
@@ -422,6 +422,7 @@ const loadScript = function loadScript(c,b){var a=document.createElement("script
   
 
   
+
 
 
           </div>
@@ -1001,103 +1002,6 @@ const loadScript = function loadScript(c,b){var a=document.createElement("script
                   resultItem += "</li>";
                   resultItems.push({
                     item: resultItem,
-                    searchTextCount: searchTextCount,
-                    hitCount: hitCount,
-                    id: resultItems.length
-                  });
-                }
-              })
-            };
-            if (keywords.length === 1 && keywords[0] === "") {
-              resultContent.innerHTML = '<div id="no-result"><i class="fa fa-search fa-5x" /></div>'
-            } else if (resultItems.length === 0) {
-              resultContent.innerHTML = '<div id="no-result"><i class="fa fa-frown-o fa-5x" /></div>'
-            } else {
-              resultItems.sort(function (resultLeft, resultRight) {
-                if (resultLeft.searchTextCount !== resultRight.searchTextCount) {
-                  return resultRight.searchTextCount - resultLeft.searchTextCount;
-                } else if (resultLeft.hitCount !== resultRight.hitCount) {
-                  return resultRight.hitCount - resultLeft.hitCount;
-                } else {
-                  return resultRight.id - resultLeft.id;
-                }
-              });
-              var searchResultList = '<ul class=\"search-result-list\">';
-              resultItems.forEach(function (result) {
-                searchResultList += result.item;
-              })
-              searchResultList += "</ul>";
-              resultContent.innerHTML = searchResultList;
-            }
-          }
-
-          if ('auto' === '') {
-            input.addEventListener('input', inputEventFunction);
-          } else {
-            $('.search-icon').click(inputEventFunction);
-            input.addEventListener('keypress', function (event) {
-              if (event.keyCode === 13) {
-                inputEventFunction();
-              }
-            });
-          }
-
-          // remove loading animation
-          $(".local-search-pop-overlay").remove();
-          $('body').css('overflow', '');
-
-          proceedsearch();
-        }
-      });
-    }
-
-    // handle and trigger popup window;
-    $('.popup-trigger').click(function(e) {
-      e.stopPropagation();
-      if (isfetched === false) {
-        searchFunc(path, 'local-search-input', 'local-search-result');
-      } else {
-        proceedsearch();
-      };
-    });
-
-    $('.popup-btn-close').click(onPopupClose);
-    $('.popup').click(function(e){
-      e.stopPropagation();
-    });
-    $(document).on('keyup', function (event) {
-      var shouldDismissSearchPopup = event.which === 27 &&
-        $('.search-popup').is(':visible');
-      if (shouldDismissSearchPopup) {
-        onPopupClose();
-      }
-    });
-  </script>
-
-
-
-
-
-  
-
-  
-
-  
-
-  
-  
-
-  
-
-  
-
-  
-
-</body>
-</html>
-<!-- 页面点击小红心 -->
-<script type="text/javascript" src="/js/src/love.js"></script>
-           item: resultItem,
                     searchTextCount: searchTextCount,
                     hitCount: hitCount,
                     id: resultItems.length

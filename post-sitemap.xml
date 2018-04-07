@@ -7,8 +7,8 @@
     </url>
 
     <url>
-        <loc>http://yoursite.com/2018/01/26/%E6%88%91%E7%9A%84%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0%20/</loc>
-        <lastmod>2018-04-07T09:09:48.967Z</lastmod>
+        <loc>http://yoursite.com/2018/04/06/%E5%8A%AA%E5%8A%9B%E6%88%90%E4%B8%BA%E5%8E%89%E5%AE%B3%E7%9A%84%E4%BA%BA/</loc>
+        <lastmod>2018-04-07T10:16:57.138Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -16,7 +16,15 @@
 
     <url>
         <loc>http://yoursite.com/2018/01/26/volatile%E5%85%B3%E9%94%AE%E5%AD%97%E6%B5%85%E6%9E%90/</loc>
-        <lastmod>2018-04-07T09:09:48.965Z</lastmod>
+        <lastmod>2018-04-07T10:05:10.406Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://yoursite.com/2018/01/26/%E6%88%91%E7%9A%84%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0%20/</loc>
+        <lastmod>2018-04-07T09:09:48.967Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
