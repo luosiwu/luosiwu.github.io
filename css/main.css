@@ -1090,14 +1090,14 @@ pre .javascript .function {
   bottom: 30px;
 }
 .header {
-  background: url("http://oct3pmpde.bkt.clouddn.com/back.jpg") no-repeat bottom;
+  background: url("../images/sy.jpg");
 }
 .header-inner {
   position: relative;
 }
 .headband {
   height: 3px;
-  background: #222;
+  background: url("../images/sy.jpg");
 }
 .site-meta {
   margin: 0;
@@ -1958,7 +1958,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #9f4a7e;
+  background: #066f87;
 }
 .links-of-blogroll {
   font-size: 13px;
