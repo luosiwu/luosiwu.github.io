@@ -1090,7 +1090,7 @@ pre .javascript .function {
   bottom: 30px;
 }
 .header {
-  background: url("../image/sy.jpg");
+  background: url("../images/sy.jpg");
 }
 .header-inner {
   position: relative;
@@ -1958,7 +1958,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #32ff3c;
+  background: #7565d1;
 }
 .links-of-blogroll {
   font-size: 13px;
